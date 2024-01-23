@@ -31,4 +31,5 @@ As a user:
 2.	User can update the status of the tasks which is assign to them by user.
 
 ## Notes
-
+* There is only one admin and admin can manage (CRUD) users and tasks.
+* Admin's username must be "SYSTEM" and set any password manually to the admin table at database.
